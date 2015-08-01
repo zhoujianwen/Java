@@ -8,3 +8,4 @@
 * 笔记正在不断完善中，喜欢请点star或者clone，请勿fork
 * 更多精彩内容请观看网易MOOC视频教程或<a href="http://study.163.com/curricula/cs.htm">顶尖中文大学计算机专业课程体系</a>
 * 练习源码及最新更新详见<a href="https://github.com/zhoujianwen/JavaJinJie.git">my github</a>
+* 测验与作业在<a href="https://github.com/zhoujianwen/JavaJinJie/wiki">my github wiki</a>
